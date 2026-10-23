@@ -1,0 +1,57 @@
+name: Suggest a tool
+description: Recommend a tool, footage source, policy page or guide for faceless YouTube channels.
+title: "Add: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g. Pexels Videos
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: The tool's own site or repository, not an affiliate or tracking link.
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Rules first: YouTube policies
+        - Niche and topic research
+        - Research and scriptwriting
+        - Voiceover
+        - Free and public-domain footage
+        - Paid stock footage
+        - Music and sound effects
+        - Editing and motion graphics
+        - Captions and transcription
+        - Thumbnails
+        - AI video generators
+        - AI agents and MCP servers
+        - Publishing and automation
+        - Analytics
+        - Something new
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What it does for a faceless channel
+      description: One or two sentences. For footage sources, say how the files are licensed.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: It doesn't sell views, subscribers or engagement, or help re-upload other people's videos.
+          required: true
+        - label: I work on this tool (that's fine, just tick it so we know).
