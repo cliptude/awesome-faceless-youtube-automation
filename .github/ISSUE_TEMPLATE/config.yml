@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question or share your workflow
+    url: https://github.com/cliptude/awesome-faceless-youtube-automation/discussions
+    about: Discuss tools, niches and workflows with other faceless creators.
