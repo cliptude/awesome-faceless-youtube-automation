@@ -121,6 +121,7 @@ Let an AI agent (Claude, ChatGPT, Codex and others) research, plan and produce v
 - [YouTube Data API](https://developers.google.com/youtube/v3) - Upload videos, set metadata and manage playlists programmatically.
 - [n8n](https://n8n.io/) - Open-source workflow automation for publishing pipelines.
 - [Postiz](https://postiz.com/) - Open-source scheduler for cross-posting shorts and clips.
+- [FacelessShorts](https://facelessshorts.io/) - Scripted faceless short-form series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
 
 ## Analytics
 
