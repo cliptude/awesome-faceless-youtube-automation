@@ -105,6 +105,7 @@ Check each file's license, and be careful with recognizable people, brands and l
 Tools that turn a prompt or script into a finished video.
 
 - [Cliptude](https://cliptude.com/) - 6–60 minute faceless documentaries and Top 10s with voiceover, real footage, animated maps and charts.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [InVideo AI](https://invideo.io/) - Prompt-to-video with stock footage and voiceover.
 - [Pictory](https://pictory.ai/) - Turns scripts and articles into short videos.
 - [VidRush](https://vidrush.ai/) - Long-form faceless video generation.
