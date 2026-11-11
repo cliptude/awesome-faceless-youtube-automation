@@ -115,6 +115,7 @@ Let an AI agent (Claude, ChatGPT, Codex and others) research, plan and produce v
 
 - [Cliptude MCP](https://github.com/cliptude/cliptude) - Remote MCP server and CLI: an agent plans every shot of a documentary and Cliptude voices, sources and renders it.
 - [Cliptude skills on ClawHub](https://clawhub.ai/mwitiderrick/skills/cliptude) - Agent skills for making Cliptude videos from OpenClaw and other agents.
+- [Menivor MCP](https://menivor.com/mcp) - Remote MCP server: an agent pastes a link or topic and Menivor renders 3 vertical reels with AI voiceover and word-by-word captions.
 
 ## Publishing and automation
 
