@@ -108,6 +108,7 @@ Tools that turn a prompt or script into a finished video.
 - [InVideo AI](https://invideo.io/) - Prompt-to-video with stock footage and voiceover.
 - [Pictory](https://pictory.ai/) - Turns scripts and articles into short videos.
 - [VidRush](https://vidrush.ai/) - Long-form faceless video generation.
+- [RemakeThat](https://remakethat.com/) - Remakes a proven winning video into a new faceless short with an AI presenter and an original script.
 
 ## AI agents and MCP servers
 
